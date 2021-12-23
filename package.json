@@ -1,7 +1,7 @@
 {
-  "name": "asincronismo",
+  "name": "asynchronism",
   "version": "1.0.0",
-  "description": "Trabajar y practicar con asincronismo en JS",
+  "description": "Working and practicing with asynchronism in JS",
   "main": "src/index.js",
   "scripts": {
     "callback": "node src/01-callback/index.js",
